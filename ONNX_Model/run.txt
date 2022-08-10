@@ -1,0 +1,1 @@
+install requirements and run python convert_to_onnx.py to download and convert the model to onnx form. The API is being worked on.

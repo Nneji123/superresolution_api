@@ -1,0 +1,11 @@
+opencv-python-headless
+pillow>=8.0.0
+h5py==2.10.0
+fastapi[all]
+ISR==2.2.0
+tensorflow==2.0.0
+onnxruntime
+tf2onnx
+fastapi[all]
+gunicorn
+protobuf==3.20.*
